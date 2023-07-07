@@ -1,4 +1,4 @@
-## KalI Linux
+## Kali Linux
 
 
 
